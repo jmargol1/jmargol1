@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jmargol1, but you can call me Joe
 - 👀 I’m interested in sports, particularly baseball as I play for the Macalester College baseball team. I also have interest in enviromental issues.
-- 🌱 I’m currently working towards an Applied Math and Stats degree at Macalester College where I expect to graduate in 2023.
-- 💞️ I’m looking to collaborate on any sports or environment related project when I can continue to expand my rStudio or other coding software skills
+- 🌱I graduated from Macalester College with a B.A. in Applied Math and Stats and am currently pursuing my M.S. in Data Science from Fordham University
 - 📫 You can reach me at jmargol1@macalester.edu
 
 <!---
